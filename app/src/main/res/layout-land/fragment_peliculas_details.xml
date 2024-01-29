@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_peliculas_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.peliculas.PeliculasFragmentDetails">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToOutline="true">
+
+            <ImageView
+                android:id="@+id/imageViewP2"
+                android:layout_width="286dp"
+                android:layout_height="346dp"
+                android:layout_marginTop="3dp"
+                android:cropToPadding="true"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.003"
+                app:srcCompat="@drawable/ic_launcher_foreground" />
+
+
+            <ImageView
+                android:id="@+id/imageViewP2enlarged"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:cropToPadding="true"
+                android:adjustViewBounds="true"
+                android:fitsSystemWindows="true"
+                android:visibility="invisible"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_launcher_foreground" />
+
+            <TextView
+                android:id="@+id/textViewReparto"
+                android:layout_width="388dp"
+                android:layout_height="88dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:justificationMode="inter_word"
+                android:paddingStart="12dp"
+                android:paddingEnd="12dp"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textAppearance="@style/normalTextHorizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toEndOf="@+id/imageViewP2"
+                app:layout_constraintTop_toBottomOf="@+id/textViewRepartoHeader"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/textViewDirector"
+                android:layout_width="388dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:justificationMode="inter_word"
+                android:layout_marginTop="5dp"
+                android:paddingStart="12dp"
+                android:paddingEnd="12dp"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textAppearance="@style/normalTextHorizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toEndOf="@id/imageViewP2"
+                app:layout_constraintTop_toBottomOf="@+id/textViewDirectorHeader"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/textViewRepartoHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:shadowColor="@color/grey"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:shadowRadius="3"
+                android:text="@string/reparto"
+                android:textAppearance="@style/normalTextHorizontal"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/imageViewP2"
+                app:layout_constraintTop_toBottomOf="@id/textViewDirector"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/textViewClasificacionHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:shadowColor="@color/grey"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="10dp"
+                android:shadowRadius="3"
+                android:text="@string/clasificacion"
+                android:textAppearance="@style/normalTextHorizontal"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.511"
+                app:layout_constraintStart_toEndOf="@id/imageViewP2"
+                app:layout_constraintTop_toBottomOf="@+id/textViewReparto"
+                app:layout_constraintVertical_bias="0.034" />
+
+            <TextView
+                android:id="@+id/textViewDirectorHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:shadowColor="@color/grey"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:shadowRadius="3"
+                android:text="@string/director"
+                android:textAppearance="@style/normalTextHorizontal"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/imageViewP2"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.005" />
+
+            <TextView
+                android:id="@+id/textViewClasificacion"
+                android:layout_width="220dp"
+                android:layout_height="24dp"
+                android:layout_gravity="center_horizontal"
+                android:justificationMode="inter_word"
+                android:layout_marginTop="5dp"
+                android:paddingStart="12dp"
+                android:paddingEnd="12dp"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textAppearance="@style/normalTextHorizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.517"
+                app:layout_constraintStart_toEndOf="@+id/imageViewP2"
+                app:layout_constraintTop_toBottomOf="@+id/textViewClasificacionHeader"
+                app:layout_constraintVertical_bias="0.0" />
+
+            <TextView
+                android:id="@+id/textViewSinopsisHeader"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:shadowColor="@color/grey"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:shadowRadius="3"
+                android:text="@string/sinopsis"
+                android:textAppearance="@style/normalTextHorizontal"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.18"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/imageViewP2"
+                app:layout_constraintVertical_bias="0.002" />
+
+            <TextView
+                android:id="@+id/textViewSinopsis"
+                android:layout_width="669dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="8dp"
+                android:justificationMode="inter_word"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:text="TextView"
+                android:textAlignment="gravity"
+                android:textAppearance="@style/normalTextHorizontal"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewSinopsisHeader"
+                app:layout_constraintVertical_bias="0.0" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

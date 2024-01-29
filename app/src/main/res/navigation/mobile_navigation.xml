@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_peliculas">
+
+    <fragment
+        android:id="@+id/nav_peliculas"
+        android:name="es.studium.filmingapp.ui.peliculas.PeliculasFragment"
+        android:label="@string/menu_peliculas"
+        tools:layout="@layout/fragment_peliculas" />
+
+    <fragment
+        android:id="@+id/nav_series"
+        android:name="es.studium.filmingapp.ui.series.SeriesFragment"
+        android:label="@string/menu_series"
+        tools:layout="@layout/fragment_series" />
+
+    <fragment
+        android:id="@+id/fragment_peliculas_details"
+        android:name="es.studium.filmingapp.ui.peliculas.PeliculasFragmentDetails"
+        android:label="@string/peliculasDetails"
+        tools:layout="@layout/fragment_peliculas_details" />
+
+    <action
+        android:id="@+id/nav_peliculas_to_peliculas_details"
+        app:destination="@id/fragment_peliculas_details" />
+
+    <fragment
+        android:id="@+id/fragment_series_details"
+        android:name="es.studium.filmingapp.ui.series.SeriesFragmentDetails"
+        android:label="@string/SeriesDetails"
+        tools:layout="@layout/fragment_series_details" />
+
+    <action
+        android:id="@+id/nav_series_to_series_details"
+        app:destination="@id/fragment_series_details" />
+
+</navigation>

@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">FilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Filming App</string>
+    <string name="nav_header_subtitle">by Magda Wiktorowicz</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_peliculas">Películas</string>
+    <string name="menu_series">Series</string>
+
+	<string name="peliculasDetails">Detalles</string>
+	<string name="SeriesDetails">Detalles</string>
+
+    <string name="titulo">Título: </string>
+    <string name="director">Director: </string>
+    <string name="reparto">Reparto: </string>
+    <string name="clasificacion">Clasificación: </string>
+    <string name="sinopsis">Sinopsis: </string>
+    <string name="temporadas">Temporadas: </string>
+
+    <string name="titulo1">8 mile</string>
+    <string name="director1">Curtis Hanson</string>
+    <string name="reparto1">Eminem, Brittany Murphy, Mekhi Phifer, Kim Basinger, Anthony Mackie</string>
+    <string name="clasificacion1">3.5</string>
+    <string name="sinopsis1">En Detroit, en 1995, Jimmy Smith Jr. tiene grandes sueños, pero le faltan palabras para expresarlos. Su vida discurre entre los suburbios blancos y los barrios negros, a lo largo de una línea divisoria conocida como 8 Mile Road. A pesar de sus esfuerzos, Jimmy nunca ha cruzado esta frontera simbólica y vive acumulando decepciones familiares, profesionales y sentimentales. Un día, participa en una batalla de rimas entre raperos. Paralizado por el miedo escénico, Jimmy se queda mudo y abandona el escenario bajo los abucheos del público. Esta humillación le lleva a realizar un examen de conciencia y, algunos días más tarde, se siente con fuerzas para intentarlo de nuevo.</string>
+
+    <string name="titulo2">Siete Almas</string>
+    <string name="director2">Gabriele Muccino</string>
+    <string name="reparto2">Will Smith, Rosario Dawson, Woody Harrelson, Michael Ealy, Barry Pepper</string>
+    <string name="clasificacion2">4.0</string>
+    <string name="sinopsis2">Ben Thomas (Will Smith), un inspector de Hacienda de Los Ángeles, se pone en contacto con algunas personas para ayudarlas, pero las razones que lo mueven a actuar así son un misterio. Sin embargo, cuando conoce a Emily Posa (Rosario Dawson), una joven enferma investigada por hacienda y empieza a sentirse atraído por ella, sus inconfesables planes se tambalean.</string>
+
+    <string name="titulo3">Origen</string>
+    <string name="director3">Christopher Nolan</string>
+    <string name="reparto3">Leonardo DiCaprio, Ken Watanabe, Cillian Murphy, Joseph Gordon-Levitt, Tom Hardy</string>
+    <string name="clasificacion3">4.0</string>
+    <string name="sinopsis3">Dom Cobb (DiCaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. Su extraña habilidad le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo Cobb podrá descubrir.</string>
+
+    <string name="titulo4">Love Actually</string>
+    <string name="director4">Richard Curtis</string>
+    <string name="reparto4">Hugh Grant, Liam Neeson, Emma Thompson, Colin Firth, Alan Rickman</string>
+    <string name="clasificacion4">3.0</string>
+    <string name="sinopsis4">En Londres, poco antes de las Navidades, se entrelazan una serie de historias divertidas y conmovedoras. "Love, Actually" es una manera abreviada de decir “Love Actually Is All Around” y éste es precisamente el argumento de la película: mires a donde mires, encontrarás el amor en todas partes. Todos los personajes, cada uno a su manera (un primer ministro, una vieja estrella del rock, una asistenta portuguesa que sólo habla su idioma), están relacionados con los aspectos más divertidos, tristes, ingenuos y estúpidos del amor.</string>
+
+    <string name="titulo5">Cuando un hombre ama a una mujer</string>
+    <string name="director5">Luis Mandoki</string>
+    <string name="reparto5">Meg Ryan, Andy García, Ellen Burstyn, Lauren Tom, Tina Majorino, Mae Whitman</string>
+    <string name="clasificacion5">4.0</string>
+    <string name="sinopsis5">Alice y Michael Green son, a primera vista, el prototipo de matrimonio ideal estadounidense: ella es consejera de estudios en una escuela superior y él es piloto; tienen dos hijas y una bonita casa. Sin embargo, tras esta apacible imagen, Alice esconde un terrible secreto, es alcohólica. Sin unas copas se siente incapaz de afrontar cualquier compromiso social. Cuando su marido se da cuenta, intentará hacer frente a la situación convenciéndola de que ingrese en un centro de desintoxicación.</string>
+
+    <string name="titulo6">Blade Runner 2049</string>
+    <string name="director6">Denis Villeneuve</string>
+    <string name="reparto6">Ryan Gosling, Harrison Ford, Ana de Armas, Jared Leto, Sylvia Hoeks</string>
+    <string name="clasificacion6">3.5</string>
+    <string name="sinopsis6">Treinta años después de los eventos del primer film, un nuevo blade runner, K (Ryan Gosling) descubre un secreto profundamente oculto que podría acabar con el caos que impera en la sociedad. El descubrimiento de K le lleva a iniciar la búsqueda de Rick Deckard (Harrison Ford), un blade runner al que se le perdió la pista hace 30 años.</string>
+
+    <string name="tituloSerie1">Dexter</string>
+    <string name="directorSerie1">James Manos Jr., John Dahl, Keith Gordon, Marcos Siega, Michael Cuesta</string>
+    <string name="repartoSerie1">Michael C. Hall, Jennifer Carpenter, James Remar, David Zayas, Desmond Harrington, Julie Benz</string>
+    <string name="clasificacionSerie1">5.0</string>
+    <string name="sinopsisSerie1">Dexter es un forense especializado en análisis de salpicaduras de sangre en el Departamento de Policía de Miami. También es un fiel novio, un divertido padrastro, un hermano confidente y ―para algunos― un freak de la sangre. Pero además, Dexter es un psicópata que, al terminar su turno en la comisaría, busca a criminales cuestionables para saciar su particular moral y los mata: Dexter es un asesino en serie. El único que desde su infancia lo conoció realmente fue su padre adoptivo, Harry Morgan, quien le dio la educación y el modus operandi con el que lleva a cabo sus crímenes (o su particular justicia). Al darse cuenta de que el instinto asesino de su hijo era imposible de evitar, decidió educarlo para sacar provecho de su particular sed de sangre y aportarle un código de actuación denominado «el código de Harry», enfocado a perseguir y eliminar a aquellos asesinos que habían conseguido eludir la acción de la Justicia.</string>
+    <string name="temporadasTotalSerie1">Temporadas: 8</string>
+    <string name="temporada1NumeroEpisodiosSerie1">Temporada 1: 12 episodios</string>
+    <string name="temporada1ListaSerie1">1. "Dexter" \n2. "Crocodile"\n3. "Popping Cherry"\n4. "Let's Give the Boy a Hand"\n5. "Love American Style"\n6. "Return to Sender"\n7. "Circle of Friends"\n8. "Shrink Wrap"\n9. "Father Knows Best"\n10. "Seeing Red"\n11. "Truth Be Told"\n12. "Born Free"</string>
+    <string name="temporada2NumeroEpisodiosSerie1">Temporada 2: 12 episodios</string>
+    <string name="temporada2ListaSerie1">1. "It's Alive!"\n2. "Waiting to Exhale"\n3. "An Inconvenient Lie"\n4. "See-Through"\n5. "The Dark Defender"\n6. "Dex, Lies, and Videotape"\n7. "That Night, A Forest Grew"\n8. "Morning Comes"\n9. "Resistance Is Futile"\n10. "There's Something About Harry"\n11. "Left Turn Ahead"\n12. "The British Invasion"</string>
+    <string name="temporada3NumeroEpisodiosSerie1">Temporada 3: 12 episodios</string>
+    <string name="temporada3ListaSerie1">1. "Our Father"\n2. "Finding Freebo"\n3. "The Lion Sleeps Tonight"\n4. "All in the Family"\n5. "Turning Biminese"\n6. "Sí Se Puede"\n7. "Easy as Pie"\n8. "The Damage a Man Can Do"\n9. "About Last Night"\n10. "Go Your Own Way"\n11. "I Had a Dream"\n12. "Do You Take Dexter Morgan?"</string>
+    <string name="temporada4NumeroEpisodiosSerie1">Temporada 4: 12 episodios</string>
+    <string name="temporada4ListaSerie1">1. "Living the Dream"\n2. "Remains to Be Seen"\n3. "Blinded by the Light"\n4. "Dex Takes a Holiday"\n5. "Dirty Harry"\n6. "If I Had a Hammer"\n7. "Slack Tide"\n8. "Road Kill"\n9. "Hungry Man"\n10. "Lost Boys"\n11. "Hello, Dexter Morgan"\n12. "The Getaway"</string>
+    <string name="temporada5NumeroEpisodiosSerie1">Temporada 5: 12 episodios</string>
+    <string name="temporada5ListaSerie1">1. "My Bad"\n2. "Hello, Bandit"\n3. "Practically Perfect"\n4. "Beauty and the Beast"\n5. "First Blood"\n6. "Everything Is Illumenated"\n7. "Circle Us"\n8. "Take It!"\n9. "Teenage Wasteland"\n10. "In the Beginning"\n11. "Hop a Freighter"\n12. "The Big One</string>
+    <string name="temporada6NumeroEpisodiosSerie1">Temporada 6: 12 episodios</string>
+    <string name="temporada6ListaSerie1">1. "Those Kinds of Things"\n2. "Once Upon a Time…"\n3. "Smokey and the Bandit"\n4. "A Horse of a Different Color"\n5. "The Angel of Death"\n6. "Just Let Go"\n7. "Nebraska"\n8. "Sin of Omission"\n9. "Get Gellar"\n10. "Ricochet Rabbit"\n11. "Talk to the Hand"\n12. "This is the Way the World Ends"</string>
+    <string name="temporada7NumeroEpisodiosSerie1">Temporada 7: 12 episodios</string>
+    <string name="temporada7ListaSerie1">1. "Are You…?"\n2. "Sunshine and Frosty Swirl"\n3. "Buck the System"\n4. "Run"\n5. "Swim Deep"\n6. "Do the Wrong Thing"\n7. "Chemistry"\n8. "Argentina"\n9. "Helter Skelter"\n10. "The Dark… Whatever"\n11. "Do You See What I See?"\n12. "Surprise, Motherfucker!"</string>
+	<string name="temporada8NumeroEpisodiosSerie1">Temporada 8: 12 episodios</string>
+    <string name="temporada8ListaSerie1">1. "A Beautiful Day"\n2. "Every Silver Lining…"\n3. "What's Eating Dexter Morgan?"\n4. "Scar Tissue"\n5. "This Little Piggy"\n6. "A Little Reflection"\n7. "Dress Code"\n8. "Are We There Yet?"\n9. "Make Your Own Kind of Music"\n10. "Goodbye Miami"\n11. "Monkey in a Box"\n12. "Remember the Monsters?"</string>
+
+    <string name="tituloSerie2">Peaky Blinders</string>
+    <string name="directorSerie2">Steven Knight, Colm McCarthy, Tim Mielants, Otto Bathurst, Tom Harper</string>
+    <string name="repartoSerie2">Cillian Murtphy, Paul Anderson, Helen McCrory, Joe Cole, Sophie Rundle, Annabelle Wallis, Tom Hardy</string>
+    <string name="clasificacionSerie2">5.0</string>
+    <string name="sinopsisSerie2">Una familia de gánsters asentada en Birmingham tras la Primera Guerra Mundial (1914–1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.</string>
+    <string name="temporadasTotalSerie2">Temporadas: 6</string>
+    <string name="temporada1NumeroEpisodiosSerie2">Temporada 1: 6 episodios</string>
+    <string name="temporada1ListaSerie2">1. Episode #1.1\n2. Episode #1.2\n3. Episode #1.3\n4. Episode #1.4\n5. Episode #1.5\n6. Episode #1.6</string>
+    <string name="temporada2NumeroEpisodiosSerie2">Temporada 2: 6 episodios</string>
+    <string name="temporada2ListaSerie2">1. Episode #2.1\n2. Episode #2.2\n3. Episode #2.3\n4. Episode #2.4\n5. Episode #2.5\n6. Episode #2.6</string>
+    <string name="temporada3NumeroEpisodiosSerie2">Temporada 3: 6 episodios</string>
+    <string name="temporada3ListaSerie2">1. Episode #3.1\n2. Episode #3.2\n3. Episode #3.3\n4. Episode #3.4\n5. Episode #3.5\n6. Episode #3.6</string>
+    <string name="temporada4NumeroEpisodiosSerie2">Temporada 4: 6 episodios</string>
+    <string name="temporada4ListaSerie2">1. "The Noose"\n2. "Heathens"\n3. "Blackbird"\n4. "Dangerous"\n5. "The Duel"\n6. "The Company"</string>
+    <string name="temporada5NumeroEpisodiosSerie2">Temporada 5: 6 episodios</string>
+    <string name="temporada5ListaSerie2">1. "Black Tuesday"\n2. "Black Cats"\n3. "Strategy"\n4. "The Loop"\n5. "The Shock"\n6. "Mr Jones"</string>
+    <string name="temporada6NumeroEpisodiosSerie2">Temporada 6: 6 episodios</string>
+    <string name="temporada6ListaSerie2">1. "Black Day"\n2. "Black Shirt"\n3. "Gold"\n4. "Sapphire"\n5. "The Road to Hell"\n6. "Lock and Key"</string>
+
+    <string name="tituloSerie3">The Office</string>
+    <string name="directorSerie3">Greg Daniels, Ricky Gervais, Stephen Merchant, Paul Feig, Randall Einhorn</string>
+    <string name="repartoSerie3">Steve Carell, Rainn Wilson, John Krasinski, Jenna Fischer, Ed Helms, B. J. Novak, Mindy Kaling</string>
+    <string name="clasificacionSerie3">5.0</string>
+    <string name="sinopsisSerie3">Esta exitosa comedia narra las locuras de unos oficinistas descontentos, liderados por el incompetente jefe Michael Scott, en la empresa de venta de papel Dunder Mifflin.</string>
+    <string name="temporadasTotalSerie3">Temporadas: 9</string>
+    <string name="temporada1NumeroEpisodiosSerie3">Temporada 1: 6 episodios</string>
+    <string name="temporada1ListaSerie3">1. "Pilot"\n2. "Diversity Day"\n3. "Health Care"\n4. "The Alliance"\n5. "Basketball"\n6. "Hot Girl"</string>
+    <string name="temporada2NumeroEpisodiosSerie3">Temporada 2: 22 episodios</string>
+    <string name="temporada2ListaSerie3">1. "The Dundies"\n2. "Sexual Harassment"\n3. "Office Olympics"\n4. "The Fire"\n5. "Halloween"\n6. "The Fight"\n7. "The Client"\n8. "Performance Review"\n9. "E-mail Surveillance"\n10. "Christmas Party"\n11. "Booze Cruise"\n12. "The Injury"\n13. "The Secret"\n14. "The Carpet"\n15. "Boys and Girls"\n16. "Valentine's Day"\n17. "Dwight's Speech"\n18. "Take Your Daughter to Work Day"\n19. "Michael's Birthday"\n20. "Drug Testing"\n21. "Conflict Resolution"\n22. "Casino Night"</string>
+    <string name="temporada3NumeroEpisodiosSerie3">Temporada 3: 25 episodios</string>
+    <string name="temporada3ListaSerie3">1. "Gay Witch Hunt"\n2. "The Convention"\n3. "The Coup"\n4. "Grief Counseling"\n5. "Initiation"\n6. "Diwali"\n7. "Branch Closing"\n8. "The Merger"\n9. "The Convict"\n10. "A Benihana Christmas"\n11. "A Benihana Christmas"\n12. "Back from Vacation"\n13. "Traveling Salesmen"\n14. "The Return"\n15. "Ben Franklin"\n16. "Phyllis' Wedding"\n17. "Business School"\n18. "Cocktails"\n19. "The Negotiation"\n20. "Safety Training"\n21. "Product Recall"\n22. "Women's Appreciation"\n23. "Beach Games"\n24. "The Job"\n25. "The Job"</string>
+    <string name="temporada4NumeroEpisodiosSerie3">Temporada 4: 19 episodios</string>
+    <string name="temporada4ListaSerie3">1. "Fun Run"\n2. "Fun Run"\n3. "Dunder Mifflin Infinity"\n4. "Dunder Mifflin Infinity"\n5. "Launch Party"\n6. "Launch Party"\n7. "Money"\n8. "Money"\n9. "Local Ad"\n10. "Branch Wars"\n11. "Survivor Man"\n12. "The Deposition"\n13. "Dinner Party"\n14. "Chair Model"\n15. "Night Out"\n16. "Did I Stutter?"\n17. "Job Fair"\n18. "Goodbye, Toby"\n19. "Goodbye, Toby"</string>
+    <string name="temporada5NumeroEpisodiosSerie3">Temporada 5: 28 episodios</string>
+    <string name="temporada5ListaSerie3">1. "Weight Loss"\n2. "Weight Loss"\n3. "Business Ethics"\n4. "Baby Shower"\n5. "Crime Aid"\n6. "Employee Transfer"\n7. "Customer Survey"\n8. "Business Trip"\n9. "Frame Toby"\n10. "The Surplus"\n11. "Moroccan Christmas"\n12. "The Duel"\n13. "Prince Family Paper"\n14. "Stress Relief"\n15. "Stress Relief"\n16. "Lecture Circuit"\n17. "Lecture Circuit"\n18. "Blood Drive"\n19. "Golden Ticket"\n20. "New Boss"\n21. "Two Weeks"\n22. "Dream Team"\n23. "Michael Scott Paper Company"\n24. "Heavy Competition"\n25. "Broke"\n26. "Casual Friday"\n27. "Cafe Disco"\n28. "Company Picnic"</string>
+    <string name="temporada6NumeroEpisodiosSerie3">Temporada 6: 26 episodios</string>
+    <string name="temporada6ListaSerie3">1. "Gossip"\n2. "The Meeting"\n3. "The Promotion"\n4. "Niagara"\n5. "Niagara"\n6. "Mafia"\n7. "The Lover"\n8. "Koi Pond"\n9. "Double Date"\n10. "Murder"\n11. "Shareholder Meeting"\n12. "Scott's Tots"\n13. "Secret Santa"\n14. "The Banker"\n15. "Sabre"\n16. "The Manager and the Salesman"\n17. "The Delivery"\n18. "The Delivery"\n19. "St. Patrick's Day"\n20. "New Leads"\n21. "Happy Hour"\n22. "Secretary's Day"\n23. "Body Language"\n24. "The Cover-Up"\n25. "The Chump"\n26. "Whistleblower"</string>
+    <string name="temporada7NumeroEpisodiosSerie3">Temporada 7: 27 episodios</string>
+    <string name="temporada7ListaSerie3">1. "Nepotism"\n2. "Counseling"\n3. "Andy's Plan"\n4. "Sex Ed"\n5. "The Sting"\n6. "Costume Contest"\n7. "Christening"\n8. "Viewing Party"\n9. "WUPHF.com"\n10. "China"\n11. "Classy Christmas"\n12. "Classy Christmas"\n13. "Ultimatum"\n14. "The Seminar"\n15. "The Search"\n16. "PDA"\n17. "Threat Level Midnight"\n18. "Todd Packer"\n19. "Garage Sale"\n20. "Training Day"\n21. "Michael's Last Dundies"\n22. "Goodbye, Michael"\n23. "Goodbye, Michael"\n24. "The Inner Circle"\n25. "Dwight K. Schrute, (Acting) Manager"\n26. "Search Committee"\n27. "Search Committee"</string>
+    <string name="temporada8NumeroEpisodiosSerie3">Temporada 8: 24 episodios</string>
+    <string name="temporada8ListaSerie3">1. "The List"\n2. "The Incentive"\n3. "Lotto"\n4. "Garden Party"\n5. "Spooked"\n6. "Doomsday"\n7. "Pam's Replacement"\n8. "Gettysburg"\n9. "Mrs. California"\n10. "Christmas Wishes"\n11. "Trivia"\n12. "Pool Party"\n13. "Jury Duty"\n14. "Special Project"\n15. "Tallahassee"\n16. "After Hours"\n17. "Test the Store"\n18. "Last Day in Florida"\n19. "Get the Girl"\n20. "Welcome Party"\n21. "Angry Andy"\n22. "Fundraiser"\n23. "Turf War"\n24. "Free Family Portrait Studio"</string>
+    <string name="temporada9NumeroEpisodiosSerie3">Temporada 9: 25 episodios</string>
+    <string name="temporada9ListaSerie3">1. "New Guys"\n2. "Roy's Wedding"\n3. "Andy's Ancestry"\n4. "Work Bus"\n5. "Here Comes Treble"\n6. "The Boat"\n7. "The Whale"\n8. "The Target"\n9. "Dwight Christmas"\n10. "Lice"\n11. "Suit Warehouse"\n12. "Customer Loyalty"\n13. "Junior Salesman"\n14. "Vandalism"\n15. "Couples Discount"\n16. "Moving On"\n17. "The Farm"\n18. "Promos"\n19. "Stairmageddon"\n20. "Paper Airplane"\n21. "Livin' the Dream"\n22. "A.A.R.M"\n23. "A.A.R.M"\n24. "Finale"\n25. "Finale"</string>
+
+    <string name="tituloSerie4">The Witcher</string>
+    <string name="directorSerie4">Lauren Schmidt, Alik Sakharov, Charlotte Brändström, Alex García Lopez, Marc Jobst</string>
+    <string name="repartoSerie4">Henry Cavill, Freya Allan, Millie Brady, MyAnna Buring, Anya Chalotra, Joey Batey</string>
+    <string name="clasificacionSerie4">4.0</string>
+    <string name="sinopsisSerie4">Geralt de Rivia es un brujo, mutado durante su infancia para ser más efectivo en su labor, matar monstruos por dinero. El continente se encuentra en un estado de caos debido a las ansias del Imperio de Nilfgaard por ampliar su territorio. Entre los refugiados de esta lucha se encuentra la princesa Cirilla de Cintra, conocida como Ciri, que es constantemente perseguida por Nilfgaard debido al secreto poder que posee. Debido al destino, Geralt y Ciri están unidos para siempre desde antes del nacimiento de esta. Durante sus viajes Geralt conoce a Jaskier, un trovador demasiado hablador, y a Yennefer de Vengerberg, una poderosa hechicera.</string>
+    <string name="temporadasTotalSerie4">Temporadas: 3</string>
+    <string name="temporada1NumeroEpisodiosSerie4">Temporada 1: 8 episodios</string>
+    <string name="temporada1ListaSerie4">1. "The End's Beginning"\n2. "Four Marks"\n3. "Betrayer Moon"\n4. "Of Banquets, Bastards and Burials"\n5. "Bottled Appetites"\n6. "Rare Species"\n7. "Before a Fall"\n8. "Much More"</string>
+    <string name="temporada2NumeroEpisodiosSerie4">Temporada 2: 8 episodios</string>
+    <string name="temporada2ListaSerie4">1. "A Grain of Truth"\n2. "Kaer Morhen"\n3. "What Is Lost"\n4. "Redanian Intelligence"\n5. "Turn Your Back"\n6. "Dear Friend"\n7. "Voleth Meir"\n8. "Family"</string>
+    <string name="temporada3NumeroEpisodiosSerie4">Temporada 3: 8 episodios</string>
+    <string name="temporada3ListaSerie4">1. "Shaerrawedd"\n2. "Unbound"\n3. "Reunion"\n4. "The Invitation"\n5. "The Art of Illusion"\n6. "Everybody Has a Plan 'til They Get Punched in the Face"\n7. "Out of the Fire, Into the Frying Pan"\n8. "The Cost of Chaos"\n</string>
+
+    <string name="tituloSerie5">Black Mirror</string>
+    <string name="directorSerie5">Charlie Brooker, Ower Harris, Carl Tibbetts, Otto Bathurst, Brian Welsh</string>
+    <string name="repartoSerie5">Rory Kinnear, Lindsay Duncan, Lydia Wilson, Tom Goodman-Hill, Allen Leech, Jay Simpson, Daniel Kaluuya</string>
+    <string name="clasificacionSerie5">4.5</string>
+    <string name="sinopsisSerie5">Serie antológica creada por Charlie Brooker ("Dead Set") que muestra el lado oscuro de la tecnología y cómo esta afecta y puede alterar nuestra vida, a veces con consecuencias tan impredecibles como aterradoras.</string>
+    <string name="temporadasTotalSerie5">Temporadas: 6</string>
+    <string name="temporada1NumeroEpisodiosSerie5">Temporada 1: 3 episodios</string>
+    <string name="temporada1ListaSerie5">1. "The National Anthem"\n2. "Fifteen Million Merits"\n3. "The Entire History of You"</string>
+    <string name="temporada2NumeroEpisodiosSerie5">Temporada 2: 3 episodios</string>
+    <string name="temporada2ListaSerie5">1. "Be Right Back"\n2. "White Bear"\n3. "The Waldo Moment"\nEpisodio especial: "White Christmas"</string>
+    <string name="temporada3NumeroEpisodiosSerie5">Temporada 3: 6 episodios</string>
+    <string name="temporada3ListaSerie5">1. "Nosedive"\n2. "Playtest"\n3. "Shut Up and Dance"\n4. "San Junipero"\n5. "Men Against Fire"\n6. "Hated in the Nation"</string>
+    <string name="temporada4NumeroEpisodiosSerie5">Temporada 4: 6 episodios</string>
+    <string name="temporada4ListaSerie5">1. "USS Callister"\n2. "Arkangel"\n3. "Crocodile"\n4. "Hang the DJ"\n5. "Metalhead"\n6. "Black Museum"</string>
+    <string name="temporada5NumeroEpisodiosSerie5">Temporada 5: 3 episodios</string>
+    <string name="temporada5ListaSerie5">1. "Striking Vipers"\n2. "Smithereens"\n3. "Rachel, Jack and Ashley Too"</string>
+    <string name="temporada6NumeroEpisodiosSerie5">Temporada 6: 5 episodios</string>
+    <string name="temporada6ListaSerie5">1. "Joan Is Awful"\n2. "Loch Henry"\n3. "Beyond the Sea"\n4. "Mazey Day"\n5. "Demon 79"</string>
+
+
+</resources>
